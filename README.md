@@ -1,10 +1,10 @@
 
-![](https://komarev.com/ghpvc/?username=VascRfl&color=006bed)
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Certified Tech Developer** no <a href="https://www.digitalhouse.com/br/">Digital House</a>.
+- 🎓 &nbsp; Fazendo o **Certified Tech Developer** na <a href="https://www.digitalhouse.com/br/">Digital House</a>
 - 💼 &nbsp; Trabalhando como **gerente de Marketing** na <a href="https://www.velenergiasolar.com.br/">VEL Energia Solar</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Front-end**.
 
@@ -12,39 +12,43 @@
 
 **Aplicações e Dados**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="36"/>
+
+
 
 **Utilidades**
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postman.png" width="36"/>
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="36"/>
+
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain-wordmark.svg" width="36"/>
 
 <br/>
 
 <a href="https://github.com/VascRfl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VascRfl&theme=dracula&show_icons=true" />
-</a>
+</a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VascRfl&layout=compact&theme=dracula)](https://github.com/VascRfl/github-readme-stats)
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Rafael Vasconcelos](https://img.shields.io/badge/-RafaelVasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vascrfl/)](https://www.linkedin.com/in/vascrfl/)
+[![Linkedin: Rafael Vasconcelos](https://img.shields.io/badge/-Rafael%20Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vascrfl/)](https://www.linkedin.com/in/vascrfl/)
 [![Gmail Badge](https://img.shields.io/badge/-vasc.rfl@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vasc.rfl@gmail.com)](mailto:vasc.rfl@gmail.com)
 [![GitHub VascRfl]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/VascRfl)
