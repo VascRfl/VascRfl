@@ -1,12 +1,12 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=VascRfl&color=006bed)
 
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Certified Tech Developer** no <a href="https://www.digitalhouse.com/br/">Digital House</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💼 &nbsp; Trabalhando como **gerente de Marketing** na <a href="https://www.velenergiasolar.com.br/">VEL Energia Solar</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Front-end**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
