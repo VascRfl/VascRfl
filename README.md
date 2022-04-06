@@ -45,6 +45,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Rafael Vasconcelos](https://img.shields.io/badge/-Rafael Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vascrfl/)](https://www.linkedin.com/in/vascrfl/)
+[![Linkedin: Rafael Vasconcelos](https://img.shields.io/badge/-RafaelVasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vascrfl/)](https://www.linkedin.com/in/vascrfl/)
 [![Gmail Badge](https://img.shields.io/badge/-vasc.rfl@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vasc.rfl@gmail.com)](mailto:vasc.rfl@gmail.com)
 [![GitHub VascRfl]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/VascRfl)
