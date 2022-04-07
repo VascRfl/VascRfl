@@ -19,7 +19,7 @@
 
 **Utilidades**
 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postman.png" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-plain.svg" width="42"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postman.png" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-plain.svg" width="42"/>
 
 
 
